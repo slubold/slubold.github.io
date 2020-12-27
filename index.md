@@ -2,6 +2,8 @@
 layout: default
 ---
 
+I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
