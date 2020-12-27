@@ -10,5 +10,5 @@ I am a PhD candidate in the statistics department at the University of Washingto
 ## Teaching
 
 I have served as the TA for the following courses:
-- STAT/CSSS 567: Statistical analysis of social network data
+- STAT/CSSS 567: Statistical analysis of social network data (Autumn 2020). 
 
