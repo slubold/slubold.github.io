@@ -4,7 +4,12 @@ layout: default
 
 I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). Previously, I received my BS in math from Arizona State University.
 
+
+
 # Research 
+My research interests focus on analyzing network data. On the theoretical side, I am interested in studying the properties of generative network models. 
+See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) for an up-to-date list of publications. 
+
 
 
 ## Teaching
