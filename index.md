@@ -8,7 +8,7 @@ I am a PhD candidate in the statistics department at the University of Washingto
 # Research
 My research interests focus broadly on analyzing network data and models. On the theoretical side, I study parameter estimation for network models using complete or partial network data. On the applied side, I am interested in understanding how to effectively sample from hard to reach populations using methods like RDS.
 
-See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) for an up-to-date list of publications. 
+See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
 
 - [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) with Arun Chandrasekhar and Tyler McCormick. [Code to reproduce results](https://github.com/slubold/LS_Geometry). Submitted.
 
