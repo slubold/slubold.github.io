@@ -14,6 +14,9 @@ See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAA
 
 
 
+## News 
+- December 18, 2020: We uploaded a pre-print of [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559). 
+- December 4, 2020: I passed my general exam. 
 
 
 ## Teaching
