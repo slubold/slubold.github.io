@@ -2,19 +2,23 @@
 layout: default
 ---
 
-I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). Previously, I received my BS in math from Arizona State University.
+I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). Previously, I received my BS in math from Arizona State University. I have worked with Yen-Chi Chen in the UW stats department and Clark Taylor at the Air Force Research Lab. 
+
+
+t
+My research interests focus broadly on analyzing network data. 
 
 
 
-# Research 
-My research interests focus on analyzing network data. On the theoretical side, I am interested in studying the properties of generative network models. 
 See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) for an up-to-date list of publications. 
 
 - [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) with Arun Chandrasekhar and Tyler McCormick. [Code to reproduce results](https://github.com/slubold/LS_Geometry)
+- [Formal Definitions of Conservative PDFs](https://arxiv.org/pdf/1912.06780) with Clark Taylor.
+- [Verifying the predicted uncertainty of Bayesian estimators](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10645/106450E/Verifying-the-predicted-uncertainty-of-Bayesian-estimators/10.1117/12.2304954.short?SSO=1)
 
 
 
-## News 
+# News 
 - December 18, 2020: We uploaded a pre-print of [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559). 
 - December 4, 2020: I passed my general exam. 
 
