@@ -35,5 +35,5 @@ $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  
  is positive semi definite, where $$J$$ is the $$K \times K$$ [centering matrix](https://en.wikipedia.org/wiki/Centering_matrix) and $\circ$ is the Hadamard product.
  
- In our example $$D$$, the smallest eigenvalue of $$F(D)$$ is 0, which is consistent with the theorem above because the points are in $$\mathbb{R}^2$$.
+ In our example $$D$$, the smallest eigenvalue of $$F(D)$$ is 0, which is consistent with the theorem above because the points are in $$\mathbb{R}^2$$. Similar results exist to determine if distances from points in the $$p$ sphere or $$p$$-dimensional hyperbolic space can be embedded in these spaces. In summary, given a distance matrix between points on a surface, there is a relationship between embedding these points in a space and the eigenvalues of (transformations) of the distance matrix. 
  
