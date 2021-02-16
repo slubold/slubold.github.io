@@ -31,7 +31,7 @@ $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  
  <b>Theorem (Schoenber 1935) </b> Let $$D$$ be a distance matrix betweek $$K$$ points $$\{z_1, \dotsc, z_K\}$$. Then $$Z$$ can be isometrically embedded in $$\mathbb{R}^{p}$$ for some $$pp$$ if and only if 
  
- $$ -1/2 J D \circ D J $$
+ $$ -\frac 1 2 J D \circ D J $$
  
  is positive semi definite, where $$J$$ is the $$K \times K$$ [centering matrix](https://en.wikipedia.org/wiki/Centering_matrix) and $\circ$ is the Hadamard product.
  
