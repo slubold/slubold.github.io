@@ -20,7 +20,7 @@ $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  # Embedding Approach
  
  To motivate our approach, we consider a related problem. Suppose we observe a $$K \times K$$ matrix $$D$$ that contains the pairwise distances between $$K$$ unknown points on $$\mathbb{R}^2$$. For example, set $$K = 3$$ and let $$D$$ take the form
- $$ \begin{center} D = \begin{pmatrix} 0 & 1 & 2 \\
+ $$D = \begin{pmatrix} 0 & 1 & 2 \\
  1 & 0 2 \\
  2 & 1 & 0
- \end{pmatrix} \end{center} $$
+ \end{pmatrix}$$
