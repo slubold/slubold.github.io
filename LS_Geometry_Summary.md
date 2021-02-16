@@ -27,4 +27,7 @@ $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  \end{pmatrix}$$
  
  
- These distances correspond to the three points plotted below at (0, 0), (1, 0), and (0, 2).
+ These distances correspond to the three points plotted below at (0, 0), (1, 0), and (0, 2). Without the values of the points, can we determine just from $$D$$ that the three points used to compute $$D$$ are actually points in \emph{some} Euclidean space. The following result from Schoenberg (1935) tells us how to determine this.
+ 
+ 
+ 
