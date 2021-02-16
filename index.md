@@ -28,8 +28,4 @@ See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAA
 I have served as the TA for the following courses:
 - STAT/CSSS 567: Statistical analysis of social network data (Autumn 2020). 
 
-$$
-x_{1,2} = \frac{-5 \pm \sqrt{5^2-12}}{6}
-$$
-
 
