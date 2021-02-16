@@ -8,6 +8,8 @@ layout: default
 
 
 
-This note provides a short summary of the paper "Identifying the latent space geometry of network models through analysis of curvature."
+This note provides a short summary of the paper "Identifying the latent space geometry of network models through analysis of curvature." The latent space (LS) model, originally proposed in Hoff (2002), uses low-dimensional representations of nodes to depict complex, high-dimensional dependencies between nodes in a network. 
+
+The goal of this paper is to derive estimators of the 
 
 
