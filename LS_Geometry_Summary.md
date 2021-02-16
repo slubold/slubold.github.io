@@ -24,7 +24,7 @@ $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  $$D = \begin{pmatrix} 0 & 1 & 2 \\
  1 & 0 & \sqrt{3} \\
  2 & \sqrt{3} & 0
- \end{pmatrix}$$
+ \end{pmatrix} \;. $$
  
  
  These distances correspond to the three points plotted below at (0, 0), (1, 0), and (0, 2). Without the values of the points, can we determine just from $$D$$ that the three points used to compute $$D$$ are actually points in \emph{some} Euclidean space. The following result from Schoenberg (1935) tells us how to determine this.
@@ -33,5 +33,5 @@ $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  
  $$ -1/2 J D \circ D J $$
  
- is positive semi definite.
+ is positive semi definite, where $$J$$ is the $$K \times K$$ [centering matrix](https://en.wikipedia.org/wiki/Centering_matrix) and $\circ$ is the Hadamard product.
  
