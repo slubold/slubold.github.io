@@ -8,4 +8,6 @@ layout: default
 
 
 
-Work in progress.
+This note provides a short summary of the paper "Identifying the latent space geometry of network models through analysis of curvature."
+
+
