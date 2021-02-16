@@ -45,5 +45,9 @@ In our example $$D$$, the smallest eigenvalue of $$F(D)$$ is 0, which is consist
  Suppose now that we do not observe a distance matrix $$D$$. Instead, suppose we observe $$\hat D$$, a noisy version of $$D$$. For example, $$\hat D = D + E$$, where $$E$$ is some error matrix. From Theorem 1, we know that the smallest eigenvalue of $$F(D)$$, $$\lambda_1(F(D))$$, tells us whether $$D$$ is Euclidean. The further from zero $\lambda_1(F(D))$$ is, the less Euclidean the points are, informally speaking.
  
 Suppose that we want to test whether $$D$$ is Euclidean. Written as a hypothesis testing problem, we write
-$$\mathcal{H}_0: D \text{is Euclidean}, \ \ \ \mathcal{H}_a: D \text{ is not } Euclidean.$$
+$$\mathcal{H}_0: D \text{ is Euclidean }, \ \ \ \mathcal{H}_a: D \text{ is not Euclidean.}$$
+
+To answer this question, we will construct confidence intervals. 
+
+
   
