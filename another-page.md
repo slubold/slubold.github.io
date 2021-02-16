@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Welcome to another page
+## LS Geometry Summary
 
-_yay_
-
-[back](./)
+Work in progress.
