@@ -52,7 +52,7 @@ To answer this question, we will construct confidence intervals for $\lambda_1(F
 # Constructing D from Graph
 Until now, we have not described how to construct $$D$$ in practice. Our approach is based on the [clique structure](https://en.wikipedia.org/wiki/Clique_(graph_theory)) of the graph. 
 
-To do this, consider the following figure, which plots on the left the latent space locations of nodes and on the right we plot the network. 
+To do this, consider the following figure, which plots on the left the latent space locations of nodes and on the right we plot the network. We see that all the nodes in a clique are likely to be close together in the latent space. The larger the clique size is, the higher this probability becomes. 
 
 
   
