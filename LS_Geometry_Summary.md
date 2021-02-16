@@ -13,7 +13,7 @@ This note provides a short summary of the paper "Identifying the latent space ge
 # Introduction and Motivation
 The latent space (LS) model, originally proposed in Hoff (2002), uses low-dimensional representations of nodes to depict complex, high-dimensional dependencies between nodes in a network. 
 
-k_{n+1} = n^2 + k_n^2 - k_{n-1}
+$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
 
 
 
