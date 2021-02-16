@@ -11,7 +11,7 @@ My research interests focus broadly on analyzing network data and models. On the
 See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
 
 - [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) with Arun Chandrasekhar and Tyler McCormick. Submitted.
-     - [Paper Summary](https://github.com/slubold.github.io/LS_Geometry_Summary)
+     - [Paper Summary](slubold.github.io/another-page.md)
      - [Code to reproduce results](https://github.com/slubold/LS_Geometry)
 
 - [Formal Definitions of Conservative PDFs](https://arxiv.org/pdf/1912.06780) with Clark Taylor. Submitted.
