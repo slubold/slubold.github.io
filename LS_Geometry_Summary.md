@@ -29,5 +29,9 @@ $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  
  These distances correspond to the three points plotted below at (0, 0), (1, 0), and (0, 2). Without the values of the points, can we determine just from $$D$$ that the three points used to compute $$D$$ are actually points in \emph{some} Euclidean space. The following result from Schoenberg (1935) tells us how to determine this.
  
+ <b>Theorem (Schoenber 1935) </b> Let $$D$$ be a distance matrix betweek $$K$$ points $$\{z_1, \dotsc, z_K\}$$. Then $$Z$$ can be isometrically embedded in $$\mathbb{R}^{p}$$ for some $$pp$$ if and only if 
  
+ $$ -1/2 J D \circ D J $$
+ 
+ is positive semi definite.
  
