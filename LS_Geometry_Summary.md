@@ -11,10 +11,7 @@ layout: default
 This note provides a short summary of the paper "Identifying the latent space geometry of network models through analysis of curvature." 
 
 # Introduction and Motivation
-The latent space (LS) model, originally proposed in Hoff (2002), uses low-dimensional representations of nodes to depict complex, high-dimensional dependencies between nodes in a network. 
-
-$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
+The latent space (LS) model, originally proposed in Hoff (2002), uses low-dimensional representations of nodes to depict complex, high-dimensional dependencies between nodes in a network. We consider the following generative model.
 
 
-
-
+$$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
