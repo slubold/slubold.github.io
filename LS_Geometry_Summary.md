@@ -47,7 +47,7 @@ In our example $$D$$, the smallest eigenvalue of $$F(D)$$ is 0, which is consist
 Suppose that we want to test whether $$D$$ is Euclidean. Written as a hypothesis testing problem, we write
 $$\mathcal{H}_0: D \text{ is Euclidean }, \ \ \ \mathcal{H}_a: D \text{ is not Euclidean.}$$
 
-To answer this question, we will construct confidence intervals. 
+To answer this question, we will construct confidence intervals for $\lambda_1(F(D))$ based on a procedure that sampled from the cliques in the network. If the observed eigenvalue is sufficiently far from zero, we reject $$\mathcal{H}_0$$.
 
 
   
