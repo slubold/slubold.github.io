@@ -50,6 +50,9 @@ $$\mathcal{H}_0: D \text{ is Euclidean }, \ \ \ \mathcal{H}_a: D \text{ is not E
 To answer this question, we will construct confidence intervals for $\lambda_1(F(D))$ based on a procedure that sampled from the cliques in the network. If the observed eigenvalue is sufficiently far from zero, we reject $$\mathcal{H}_0$$.
 
 # Constructing D from Graph
+Until now, we have not described how to construct $$D$$ in practice. Our approach is based on the [clique structure](https://en.wikipedia.org/wiki/Clique_(graph_theory)) of the graph. 
+
+To do this, consider the following figure, which plots on the left the latent space locations of nodes and on the right we plot the network. 
 
 
   
