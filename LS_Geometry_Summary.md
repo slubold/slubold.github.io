@@ -59,7 +59,7 @@ Consider the figure below. On the left we plot a network on $$n = 15$$ nodes, di
 
 Imagine that at the center of each of these groups, there is a "group center". Label these three points $$z_{\text{Black}}$$, $$z_{\text{Green}}$$ and $$z_{\text{Red}}$$. We can estimate the number of edges between these three groups in a symmetric "probability matrix", denoted by $$\hat P$$, where
 
-$$ \hat P = \begin{pmatrix} _ & \frac{2}{25} & \frac{1}{25} \\ & _ & \frac{3}{25} \\ & & _\end{pmatrix} $$
+$$ \hat P = \begin{pmatrix} _ & \frac{2}{25} & \frac{1}{25} \\ & _ & \frac{3}{25} \\ & & _ \end{pmatrix} $$
 
 
   
