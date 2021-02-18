@@ -45,7 +45,7 @@ In our example $$D$$, the smallest eigenvalue of $$F(D)$$ is 0, which is consist
 Suppose that we want to test whether $$D$$ is Euclidean. Written as a hypothesis testing problem, we write
 $$\mathcal{H}_0: D \text{ is Euclidean }, \ \ \ \mathcal{H}_a: D \text{ is not Euclidean.}$$
 
-To answer this question, we will construct confidence intervals for $\lambda_1(F(D))$ based on a procedure that sampled from the cliques in the network. If the observed eigenvalue is sufficiently far from zero, we reject $$\mathcal{H}_0$$.
+To answer this question, we will construct confidence intervals for $\lambda_1(F(D))$ based on a procedure that sampled from the cliques in the network. If the observed eigenvalue is sufficiently far from zero, we reject $$\mathcal{H}_0$$. Note that "classical bootstrapping", such as in Efron (1979), does not work in our situation, because the eigenvalues of interest are often repeated and lie on the boundary of the parameter space. So we need to use a slightly different procedure to construct confidence intervals. We use the sub-sampling method in [Romano (1994)](https://projecteuclid.org/journals/annals-of-statistics/volume-22/issue-4/Large-Sample-Confidence-Regions-Based-on-Subsamples-under-Minimal-Assumptions/10.1214/aos/1176325770.full).
 
 ## Constructing D from Graph
 Until now, we have not described how to construct $$D$$ in practice. Our approach is based on the [clique structure](https://en.wikipedia.org/wiki/Clique_(graph_theory)) of the graph. 
