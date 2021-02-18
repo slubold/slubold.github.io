@@ -59,7 +59,7 @@ Consider the figure below. On the left we plot a network on $$n = 15$$ nodes, di
 
 Imagine that at the center of each of these groups, there is a "group center". Label these three points $$z_{\text{Black}}$$, $$z_{\text{Green}}$$ and $$z_{\text{Red}}$$. We can estimate the number of edges between these three groups in a symmetric "probability matrix", denoted by $$\hat P$$. Then, by solving for the distances using the LS model, we see that
 
-$$ \hat d_{k,k'} = -\log(\hat P_{k,k'} / E(\exp(\nu_i)^2)) $$
+$$ \hat d_{k,k'} = -\log\left(\frac{\hat P_{k,k'}}{E(\exp(\nu_i)^2)}\right) $$
 
 where 
 
