@@ -42,7 +42,7 @@ In our example $$D$$, the smallest eigenvalue of $$F(D)$$ is 0, which is consist
 ## Noisy Distance Matrix 
  
  
- Suppose now that we do not observe a distance matrix $$D$$. Instead, suppose we observe $$\hat D$$, a noisy version of $$D$$. For example, $$\hat D = D + E$$, where $$E$$ is some error matrix. From Theorem 1, we know that the smallest eigenvalue of $$F(D)$$, $$\lambda_1(F(D))$$, tells us whether $$D$$ is Euclidean. The further from zero $$\lambda_1(F(D))$$ is, the less Euclidean the points are, informally speaking.
+ Suppose now that we do not observe a distance matrix $$D$$. Instead, suppose we observe $$\hat D$$, a noisy version of $$D$$. For example, $$\hat D = D + E$$, where $$E$$ is some error matrix. From Theorem 1, we know that the smallest eigenvalue of $$F$$, $$\lambda_1(F)$$, tells us whether $$D$$ is Euclidean. The further from zero $$\lambda_1(F)$$ is, the less Euclidean the points are, informally speaking.
  
 Suppose that we want to test whether $$D$$ is Euclidean. Written as a hypothesis testing problem, we write
 
