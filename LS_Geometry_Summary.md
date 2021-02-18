@@ -7,7 +7,7 @@ layout: default
 This note is intended to briefly explain three key ideas of our approach in [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) These three ideas are
 - Embeddability of points via eigenvalues
 - Constructing confidence intervals for eigenvalues using bootstrapping. 
-- Construcint a distance matrix from the graph.
+- Constructing a distance matrix from the graph.
 
 # Introduction 
 The latent space (LS) model, originally proposed in Hoff (2002), uses low-dimensional representations of nodes to depict complex, high-dimensional dependencies between nodes in a network. We consider the following generative model.
@@ -21,11 +21,11 @@ $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  To motivate our approach, we consider a related problem. Suppose we observe a $$K \times K$$ matrix $$D$$ that contains the pairwise distances between $$K$$ unknown points on $$\mathbb{R}^2$$. For example, set $$K = 3$$ and let $$D$$ take the form
  
  $$D = \begin{pmatrix} 0 & 1 & 2 \\
- 1 & 0 & \sqrt{3} \\
- 2 & \sqrt{3} & 0
+ 1 & 0 & \sqrt{5} \\
+ 2 & \sqrt{5} & 0
  \end{pmatrix} \;. $$
  
- 
+
  These distances correspond to the three points plotted below at (0, 0), (1, 0), and (0, 2). Without the values of the points, can we determine just from $$D$$ that the three points used to compute $$D$$ are actually points in \emph{some} Euclidean space. The following result from Schoenberg (1935) tells us how to determine this.
  
  <b>Theorem (Schoenberg 1935) </b> Let $$D$$ be a distance matrix betweek $$K$$ points $$\{z_1, \dotsc, z_K\}$$. Then $$Z$$ can be isometrically embedded in $$\mathbb{R}^{p}$$ for some $$p$$ if and only if 
