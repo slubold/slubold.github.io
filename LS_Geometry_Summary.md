@@ -27,7 +27,7 @@ To motivate our approach, we consider a related problem. Suppose we observe a $$
  \end{pmatrix} \;. $$
  
 
- These distances correspond to the three at (0, 0), (1, 0), and (0, 2). Without the values of the points, can we determine just from $$D$$ that the three points used to compute $$D$$ are actually points in \emph{some} Euclidean space. The following result from Schoenberg (1935) tells us how to determine this.
+ These distances correspond to three points at (0, 0), (1, 0), and (0, 2). Without the values of the points, can we determine just from $$D$$ that the three points used to compute $$D$$ are actually points in \emph{some} Euclidean space. The following result from Schoenberg (1935) tells us how to determine this.
  
  <b>Theorem (Schoenberg 1935) </b> Let $$D$$ be a distance matrix betweek $$K$$ points $$\{z_1, \dotsc, z_K\}$$. Then $$Z$$ can be isometrically embedded in $$\mathbb{R}^{p}$$ for some $$p$$ if and only if 
  
