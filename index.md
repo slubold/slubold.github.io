@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). Previously, I received my BS in math from Arizona State University. I have worked with Yen-Chi Chen in the UW stats department and Clark Taylor at the Air Force Research Lab. 
+I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). Previously, I received my BS in math from Arizona State University. I have worked with Yen-Chi Chen in the UW stats department and Clark Taylor at the Air Force Research Lab. I am supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-homepage).
 
 
 # Research
