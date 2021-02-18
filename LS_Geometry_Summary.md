@@ -14,11 +14,10 @@ The latent space (LS) model, originally proposed in Hoff (2002), uses low-dimens
 
 $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  
- where $$\{\nu_i\}$$ are the node-specific propensity to form edges, $$\{z_i\}$$ are the latent space locations of the nodes, and $$d_{\mathcal{M}^p(\kappa)}(z_i, z_j)$$ is the distance along the surface of $$\mathcal{M}^p(\kappa)$$. Our goal is to answer: "Given $$g$$ drawn from the LS model, can we estimate the geometry type, dimension, and curvature of $$\mathcal{M}^p(\kappa)$$?
+ where $$\{\nu_i\}$$ are the node-specific propensity to form edges, $$\{z_i\}$$ are the latent space locations of the nodes, and $$d_{\mathcal{M}^p(\kappa)}(z_i, z_j)$$ is the distance along the surface of $$\mathcal{M}^p(\kappa)$$. Our goal is to answer: "Given $$g$$ drawn from the LS model, can we estimate the geometry type, dimension, and curvature of $$\mathcal{M}^p(\kappa)$$?''
  
- # Embedding Approach
- 
- To motivate our approach, we consider a related problem. Suppose we observe a $$K \times K$$ matrix $$D$$ that contains the pairwise distances between $$K$$ unknown points on $$\mathbb{R}^2$$. For example, set $$K = 3$$ and let $$D$$ take the form
+# Embedding Approach
+To motivate our approach, we consider a related problem. Suppose we observe a $$K \times K$$ matrix $$D$$ that contains the pairwise distances between $$K$$ unknown points on $$\mathbb{R}^2$$. For example, set $$K = 3$$ and let $$D$$ take the form
  
  $$D = \begin{pmatrix} 0 & 1 & 2 \\
  1 & 0 & \sqrt{5} \\
@@ -38,7 +37,7 @@ In our example $$D$$, the smallest eigenvalue of $$F(D)$$ is 0, which is consist
  
 <b> In summary, given a distance matrix between points on a surface, there is a relationship between embedding these points in a space and the eigenvalues of (transformations) of the distance matrix. <b>
  
- # Noisy Distance Matrix 
+# Noisy Distance Matrix 
  
  
  Suppose now that we do not observe a distance matrix $$D$$. Instead, suppose we observe $$\hat D$$, a noisy version of $$D$$. For example, $$\hat D = D + E$$, where $$E$$ is some error matrix. From Theorem 1, we know that the smallest eigenvalue of $$F(D)$$, $$\lambda_1(F(D))$$, tells us whether $$D$$ is Euclidean. The further from zero $$\lambda_1(F(D))$$ is, the less Euclidean the points are, informally speaking.
