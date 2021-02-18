@@ -43,7 +43,10 @@ In our example $$D$$, the smallest eigenvalue of $$F(D)$$ is 0, which is consist
  Suppose now that we do not observe a distance matrix $$D$$. Instead, suppose we observe $$\hat D$$, a noisy version of $$D$$. For example, $$\hat D = D + E$$, where $$E$$ is some error matrix. From Theorem 1, we know that the smallest eigenvalue of $$F(D)$$, $$\lambda_1(F(D))$$, tells us whether $$D$$ is Euclidean. The further from zero $$\lambda_1(F(D))$$ is, the less Euclidean the points are, informally speaking.
  
 Suppose that we want to test whether $$D$$ is Euclidean. Written as a hypothesis testing problem, we write
+
+
 $$\mathcal{H}_0: D \text{ is Euclidean }, \ \ \ \mathcal{H}_a: D \text{ is not Euclidean.}$$
+
 
 To answer this question, we will construct confidence intervals for $\lambda_1(F(D))$ based on a procedure that sampled from the cliques in the network. If the observed eigenvalue is sufficiently far from zero, we reject $$\mathcal{H}_0$$. Note that "classical bootstrapping", such as in Efron (1979), does not work in our situation, because the eigenvalues of interest are often repeated and lie on the boundary of the parameter space. So we need to use a slightly different procedure to construct confidence intervals. We use the sub-sampling method in [Romano (1994)](https://projecteuclid.org/journals/annals-of-statistics/volume-22/issue-4/Large-Sample-Confidence-Regions-Based-on-Subsamples-under-Minimal-Assumptions/10.1214/aos/1176325770.full).
 
