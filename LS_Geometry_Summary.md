@@ -9,7 +9,7 @@ This note is intended to briefly explain three key ideas of our approach in [Ide
 - Constructing confidence intervals for eigenvalues using bootstrapping. 
 - Constructing a distance matrix from the graph.
 
-Last updated on February 28, 2021. Please send comments or questions to sl223@uw.edu.
+Last updated on February 18, 2021. Please send comments or questions to sl223@uw.edu.
 
 ## Introduction 
 The latent space (LS) model, originally proposed in Hoff (2002), uses low-dimensional representations of nodes to depict complex, high-dimensional dependencies between nodes in a network. We consider the following generative model.
