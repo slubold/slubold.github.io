@@ -9,14 +9,14 @@ This note is intended to briefly explain three key ideas of our approach in [Ide
 - Constructing confidence intervals for eigenvalues using bootstrapping. 
 - Constructing a distance matrix from the graph.
 
-# Introduction 
+## Introduction 
 The latent space (LS) model, originally proposed in Hoff (2002), uses low-dimensional representations of nodes to depict complex, high-dimensional dependencies between nodes in a network. We consider the following generative model.
 
 $$P(g_{ij} = 1 | \nu, z)  = \exp(\nu_i + \nu_j - d_{\mathcal{M}}(z_i, z_j))$$
  
  where $$\{\nu_i\}$$ are the node-specific propensity to form edges, $$\{z_i\}$$ are the latent space locations of the nodes, and $$d_{\mathcal{M}^p(\kappa)}(z_i, z_j)$$ is the distance along the surface of $$\mathcal{M}^p(\kappa)$$. Our goal is to answer: "Given $$g$$ drawn from the LS model, can we estimate the geometry type, dimension, and curvature of $$\mathcal{M}^p(\kappa)$$?''
  
-# Embedding Approach
+## Embedding Approach
 To motivate our approach, we consider a related problem. Suppose we observe a $$K \times K$$ matrix $$D$$ that contains the pairwise distances between $$K$$ unknown points on $$\mathbb{R}^2$$. For example, set $$K = 3$$ and let $$D$$ take the form
  
  $$D = \begin{pmatrix} 0 & 1 & 2 \\
@@ -37,7 +37,7 @@ In our example $$D$$, the smallest eigenvalue of $$F(D)$$ is 0, which is consist
  
 <b> In summary, given a distance matrix between points on a surface, there is a relationship between embedding these points in a space and the eigenvalues of (transformations) of the distance matrix. <b>
  
-# Noisy Distance Matrix 
+## Noisy Distance Matrix 
  
  
  Suppose now that we do not observe a distance matrix $$D$$. Instead, suppose we observe $$\hat D$$, a noisy version of $$D$$. For example, $$\hat D = D + E$$, where $$E$$ is some error matrix. From Theorem 1, we know that the smallest eigenvalue of $$F(D)$$, $$\lambda_1(F(D))$$, tells us whether $$D$$ is Euclidean. The further from zero $$\lambda_1(F(D))$$ is, the less Euclidean the points are, informally speaking.
@@ -47,7 +47,7 @@ $$\mathcal{H}_0: D \text{ is Euclidean }, \ \ \ \mathcal{H}_a: D \text{ is not E
 
 To answer this question, we will construct confidence intervals for $\lambda_1(F(D))$ based on a procedure that sampled from the cliques in the network. If the observed eigenvalue is sufficiently far from zero, we reject $$\mathcal{H}_0$$.
 
-# Constructing D from Graph
+## Constructing D from Graph
 Until now, we have not described how to construct $$D$$ in practice. Our approach is based on the [clique structure](https://en.wikipedia.org/wiki/Clique_(graph_theory)) of the graph. 
 
 To do this, consider the following figure, which plots on the left the latent space locations of nodes and on the right we plot the network. We see that all the nodes in a clique are likely to be close together in the latent space. The larger the clique size is, the higher this probability becomes. 
