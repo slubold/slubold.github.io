@@ -61,7 +61,11 @@ Imagine that at the center of each of these groups, there is a "group center". L
 
 $$ \hat d_{k,k'} = -\log\left(\frac{\hat P_{k,k'}}{E(\exp(\nu_i)^2)}\right) $$
 
-where $$\hat d_{k,k'}$$ is the estimated distance between points $$k$$ and $$k'$$ along the surface of $$\mathcal{M}^p(\kappa)$$.
+where $$\hat d_{k,k'}$$ is the estimated distance between points $$k$$ and $$k'$$ along the surface of $$\mathcal{M}^p(\kappa)$$. 
+
+## Is there code?
+
+Yes! Check out the github repo [here](https://github.com/slubold/LS_Geometry).
 
 
   
