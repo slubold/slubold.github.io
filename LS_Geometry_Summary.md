@@ -11,6 +11,11 @@ This note is intended to briefly explain three key ideas of our approach in [Ide
 
 Last updated on February 18, 2021. Please send comments or questions to sl223@uw.edu.
 
+## Is there code?
+
+Yes! Check out the github repo [here](https://github.com/slubold/LS_Geometry).
+
+
 ## Introduction 
 The latent space (LS) model, originally proposed in Hoff (2002), uses low-dimensional representations of nodes to depict complex, high-dimensional dependencies between nodes in a network. We consider the following generative model.
 
@@ -65,9 +70,7 @@ $$ \hat d_{k,k'} = -\log\left(\frac{\hat P_{k,k'}}{E(\exp(\nu_i)^2)}\right) $$
 
 where $$\hat d_{k,k'}$$ is the estimated distance between points $$k$$ and $$k'$$ along the surface of $$\mathcal{M}^p(\kappa)$$. 
 
-## Is there code?
 
-Yes! Check out the github repo [here](https://github.com/slubold/LS_Geometry).
 
 
   
