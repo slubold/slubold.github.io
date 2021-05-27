@@ -13,7 +13,6 @@ See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAA
 - [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) with Arun Chandrasekhar and Tyler McCormick. Submitted.
      - [Paper Summary](LS_Geometry_Summary.md)
      - [Code](https://github.com/slubold/LS_Geometry)
-     - [Slides](https://slubold.github.io/Lubold_LS_Slides.pdf)
 
 - [Formal Definitions of Conservative PDFs](https://arxiv.org/pdf/1912.06780) with Clark Taylor. Submitted.
 
