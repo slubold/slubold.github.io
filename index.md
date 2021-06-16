@@ -6,7 +6,8 @@ I am a PhD candidate in the statistics department at the University of Washingto
 
 
 # Research
-My research interests focus broadly on analyzing network data and models. On the theoretical side, I study parameter estimation for network models using complete or partial network data. On the applied side, I am interested in understanding how to effectively sample from hard to reach populations using methods like RDS.
+My research focuses on network data and models. I am interested in the relationship between network structure and underyling geometric structure. 
+I like to use tools from random matrix theory to answer these types of questions.  I am particularly interested in partial network data, and I try to understand when this type of data is sufficient to do good statistical inference and estimation. I am also interested in understanding how to best conduct surveys for unobserved networks.
 
 See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
 
@@ -26,9 +27,11 @@ See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAA
 - February 16, 2021: I am [writing](LS_Geometry_Summary.md) a short summary of ''Identifying the latent space geometry of network models through analysis of curvature.'' 
 
 
-## Teaching
+## Teaching at UW
 
-I have served as the TA for the following courses:
+In the summer of 2021, I will be teaching MATH/STAT 395: Probability II.  I have served as the TA for the following courses:
 - STAT/CSSS 567: Statistical analysis of social network data (Autumn 2020). 
+- STAT 390 Statistical Methods in Engineering and Science (Spring 2019).
+- STAT 421: Stat 421: Applied Statistics and Experimental Design (Autumn 2018). 
 
 
