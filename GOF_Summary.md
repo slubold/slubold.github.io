@@ -11,7 +11,7 @@ The main approach, which was explored in Jing (2016) and others, is that the eig
 To apply this to the network GoF problem, suppose that we have a random network $$G$$ drawn from a distribution $$F_\theta$$. Suppose we compute an estimate $$\hat \theta$$ of $$\theta$$ using, for example, maximum likelihood estimation. We can then estimate $$P(G_{ij} = 1 \mid \hat \theta)$$ using the parametric form of the model.
 
 We then form the random matrix 
-$$ \hat A_{ij} = \frac{G_{ij} - \hat P_{ij}}{\sqrt{(n-1)\hat P_{ij}(1-\hat P_{ij})} $$
+$$ \hat A_{ij} = \frac{G_{ij} - \hat P_{ij}}{\sqrt{(n-1)\hat P_{ij}(1-\hat P_{ij})}}$$
 
 
 
