@@ -4,7 +4,7 @@ layout: default
 
 ## LS Geometry Summary
 
-This note is intended to briefly explain three key ideas of our approach in [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) These three ideas are
+This note is intended to briefly explain three key ideas of our approach in [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559). These three ideas are
 - Embeddability of points via eigenvalues
 - Constructing confidence intervals for eigenvalues using bootstrapping. 
 - Constructing a distance matrix from the graph.
