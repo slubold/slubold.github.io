@@ -8,7 +8,7 @@ This note is intended to briefly explain the main idea of .
 
 # Is there code?
 
-Yes, check out the github repo [here](slubold.github.io/Network_GOF). 
+Yes, check out the github repo [here](https://github.com/slubold/Network_GOF). 
 
 
 Let $$G$$ denote a random network that is either completely observed (meaning we observe all nodes and edges) or partially observed (from, for example, Aggregated Relatonal data). Suppose our goal is to determine if a given parameteric network model, such as a stochastic block model, fits the observed network well. We call this the goodness of fit (GoF) hypothesis. In this work, we derive a hypothesis testing framework to test this hypothesis in both the completely observed and partially observed cases.
