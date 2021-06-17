@@ -9,7 +9,10 @@ I am a PhD candidate in the statistics department at the University of Washingto
 My research focuses on network data and models. I am interested in the relationship between network structure and underyling geometric structure. 
 I like to use tools from random matrix theory to answer these types of questions.  I am particularly interested in partial network data, and I try to understand when this type of data is sufficient to do good statistical inference and estimation. I am also interested in understanding how to best conduct surveys for unobserved networks.
 
-See my [google scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
+See my [Google Scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
+
+- Spectral goodness of fit tests for complete and partial network data with Bolun Liu and Tyler McCormick. 
+     - [Code](https://github.com/slubold/Network_GOF)
 
 - [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) with Arun Chandrasekhar and Tyler McCormick. Submitted.
      - [Paper Summary](LS_Geometry_Summary.md)
