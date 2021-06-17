@@ -19,7 +19,7 @@ We then form the symmetric random matrix $$\hat A$$, with $$\hat A_{ii} = 0$$ an
 
 $$ \hat A_{ij} = \frac{G_{ij} - \hat P_{ij}}{\sqrt{(n-1)\hat P_{ij}(1-\hat P_{ij})}}.  $$
 
-By construction, $$\hat A$$ is a symmetric random matrix whose entries are (approximately) independent, have mean zero, and variance $$1/(n-1)$$, so $$\lambda_{\min}(\hat A)$$ and $$\lambda_{\max}(\hat A)$$ both converge to a Tracy-Widom distribution. This allows us to construct a test statistic based on the eigenvalues of $$\hat A$$ to test the GoF hypothesis. 
+Under the null hypothesis that $$G \sim F_\theta$$, $$\hat A$$ is a symmetric random matrix whose entries are (approximately) independent, have mean zero, and variance $$1/(n-1)$$, so $$\lambda_{\min}(\hat A)$$ and $$\lambda_{\max}(\hat A)$$ both converge to a Tracy-Widom distribution. This allows us to construct a test statistic based on the eigenvalues of $$\hat A$$ to test the GoF hypothesis. 
 
 # Directed and partially observed cases
 The above discussion only applies to un-directed networks, which have symmetric adjacency matrices. We extend this method to the case of directed networks by using a result from Chafai that shows that the largest singular values of a non-symmetric matrix $$A$$, that takes a form that is similar to the form of $$\hat A$$, converges to a Tracy-Widom distribution. This allows us to create a test of the GoF hypothesis when $$G$$ is directed. We also show how to use this result to test the GoF hypothesis when we only observe partial network data, such as Aggregated Relational data. 
