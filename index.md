@@ -11,23 +11,24 @@ I like to use tools from random matrix theory to answer these types of questions
 
 See my [Google Scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
 
-- Spectral goodness of fit tests for complete and partial network data with Bolun Liu and Tyler McCormick. 
+4) Spectral goodness of fit tests for complete and partial network data with Bolun Liu and Tyler McCormick. 
      - [Code](https://github.com/slubold/Network_GOF)
 
-- [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) with Arun Chandrasekhar and Tyler McCormick. Submitted.
+3) [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) with Arun Chandrasekhar and Tyler McCormick. Submitted.
      - [Paper Summary](LS_Geometry_Summary.md)
      - [Code](https://github.com/slubold/LS_Geometry)
 
-- [Formal Definitions of Conservative PDFs](https://arxiv.org/pdf/1912.06780) with Clark Taylor. Submitted.
+2) [Formal Definitions of Conservative PDFs](https://arxiv.org/pdf/1912.06780) with Clark Taylor. Submitted.
 
-- [Verifying the predicted uncertainty of Bayesian estimators](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10645/106450E/Verifying-the-predicted-uncertainty-of-Bayesian-estimators/10.1117/12.2304954.short?SSO=1). Proc. SPIE 10645, Geospatial Informatics, Motion Imagery, and Network Analytics VIII, 106450E (27 April 2018)
+1) [Verifying the predicted uncertainty of Bayesian estimators](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10645/106450E/Verifying-the-predicted-uncertainty-of-Bayesian-estimators/10.1117/12.2304954.short?SSO=1). Proc. SPIE 10645, Geospatial Informatics, Motion Imagery, and Network Analytics VIII, 106450E (27 April 2018)
 
 
 
 # News 
+- June 17, 2021: Our pre-print on spectral goodness-of-fit tests for complete and partial network data is out today! Check out the pre-print, code, and a short summary. 
+- February 16, 2021: I am [writing](LS_Geometry_Summary.md) a short summary of ''Identifying the latent space geometry of network models through analysis of curvature.'' 
 - December 18, 2020: We uploaded a pre-print of [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559). 
 - December 4, 2020: I passed my general exam. 
-- February 16, 2021: I am [writing](LS_Geometry_Summary.md) a short summary of ''Identifying the latent space geometry of network models through analysis of curvature.'' 
 
 
 ## Teaching at UW
