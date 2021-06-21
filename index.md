@@ -11,9 +11,9 @@ I like to use tools from random matrix theory to answer these types of questions
 
 See my [Google Scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
 
-- [Spectral goodness of fit tests for complete and partial network data](https://arxiv.org/abs/2106.09702) with Bolun Liu and Tyler McCormick. [Paper Summary](GOF_Summary.md). [Code](https://github.com/slubold/Network_GOF)
+- [Spectral goodness of fit tests for complete and partial network data](https://arxiv.org/abs/2106.09702) with Bolun Liu and Tyler McCormick. [Paper Summary](GOF_Summary.md). [Code](https://github.com/slubold/Network_GOF).
 
-- [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) with Arun Chandrasekhar and Tyler McCormick. Submitted. [Paper Summary](LS_Geometry_Summary.md). [Code](https://github.com/slubold/LS_Geometry)
+- [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559) with Arun Chandrasekhar and Tyler McCormick. Submitted. [Paper Summary](LS_Geometry_Summary.md). [Code](https://github.com/slubold/LS_Geometry).
 
 - [Formal Definitions of Conservative PDFs](https://arxiv.org/pdf/1912.06780) with Clark Taylor. Submitted.
 
