@@ -4,7 +4,7 @@ layout: default
 
 # Network GoF Summary
 
-This note is intended to briefly explain the main idea of .  
+This note is intended to briefly explain the main idea of our paper on [spectral goodness of fit tests for complete and partial network data](https://arxiv.org/abs/2106.09702).  
 
 # Is there code?
 
