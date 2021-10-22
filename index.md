@@ -22,6 +22,7 @@ See my [Google Scholar page](https://scholar.google.com/citations?user=Ab-RAckAA
 
 
 # News 
+- October 20, 2021: We have posted an updated version of our paper "Consistently estimating network statistics with aggregated relational data" to arxiv.
 - June 17, 2021: Our pre-print on spectral goodness-of-fit tests for complete and partial network data is out today! Check out the [pre-print](https://arxiv.org/abs/2106.09702), [code](https://github.com/slubold/LS_Geometry), and [short summary](GOF_Summary.md). 
 - February 16, 2021: I am [writing](LS_Geometry_Summary.md) a short summary of ''Identifying the latent space geometry of network models through analysis of curvature.'' 
 - December 18, 2020: We uploaded a pre-print of [Identifying the latent space geometry of network models through analysis of curvature](https://arxiv.org/abs/2012.10559). 
