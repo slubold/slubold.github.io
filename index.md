@@ -11,7 +11,7 @@ I like to use tools from random matrix theory to answer these types of questions
 
 See my [Google Scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
 
-- [Consistently estimating network statistics using aggregated relational data](https://arxiv.org/abs/1908.09881) with Emily Breza, Arun Chandrasekhar, Tyler McCormick, and Mengjie Pan. [Paper Summary](https://slubold.github.io/ARD_Consistent_Estimation/). [Code](https://github.com/slubold/ARD_Consistent_Estimation)
+- [Consistently estimating network statistics using aggregated relational data](https://arxiv.org/abs/1908.09881) with Emily Breza, Arun Chandrasekhar, Tyler McCormick, and Mengjie Pan. [Paper Summary](https://slubold.github.io/ARD_Consistent_Estimation/). [Code](https://github.com/slubold/ARD_Consistent_Estimation).
 
 - [Spectral goodness of fit tests for complete and partial network data](https://arxiv.org/abs/2106.09702) with Bolun Liu and Tyler McCormick. [Paper Summary](GOF_Summary.md). [Code](https://github.com/slubold/Network_GOF).
 
