@@ -6,8 +6,19 @@ I am a PhD candidate in the statistics department at the University of Washingto
 
 
 # Research
-My research focuses on network data and models. I am interested in the relationship between network structure and underyling geometric structure. 
-I like to use tools from random matrix theory to answer these types of questions.  I am particularly interested in partial network data, and I try to understand when this type of data is sufficient to do good statistical inference and estimation. I am also interested in understanding how to best conduct surveys for unobserved networks.
+My research covers a host of network and data science topics, motivated primarily by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. 
+
+Much of my work focuses on using sampled, incomplete, and noisy network data to learn features of unobserved networks and analyze how networks influence our behavior. I am interested in modeling standard sampled data types, such as respondent-driven sampling or aggregated relational data, to understand its uses and limitations. I also think about new data-driven ways of collecting network data to best address the researcher’s questions. Much of this work is inspired by interdisciplinary collaboration. Another part of my work focuses on learning the geometric properties of data, particularly network data, and using these properties to improve downstream tasks in machine learning. 
+
+Some of my current projects focus on
+
+- estimating geometric properties of latent space models,
+- estimating the size of hard-to-reach populations from survey data,
+- using randomized control trials to estimate treatment effects in the presence of network spillovers when the network is unobserved, 
+- quantifying the relationship between network centrality and linguistic patterns, 
+- improving re-identification methods for conservation work using animal social networks,  
+- assessing model fit for sampled network data
+
 
 See my [Google Scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
 
