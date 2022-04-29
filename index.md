@@ -35,6 +35,7 @@ See my [Google Scholar page](https://scholar.google.com/citations?user=Ab-RAckAA
 
 
 # News 
+- April 27, 2022: We have posted an updated version of our paper ["Consistently estimating network statistics with aggregated relational data"](https://slubold.github.io/ARD_Consistent_Estimation/) to arXiv. 
 - November 17, 2021: I will be giving a presentation at the [International Society of Bayesian Analysis](https://isbawebmaster.github.io/ISBA2022/) in June 2022 on our [geometry of latent space paper](https://arxiv.org/abs/2012.10559)!
 - November 12, 2021: I am excited to announce that I received the [Z.W. Birnbaum award](https://stat.uw.edu/news-resources/articles/2020-2021-zw-birnbaum-award-and-dorothy-m-gilford-teaching-award) for best general exam in the past year. Thanks to my great advisors Arun and Tyler!
 - October 20, 2021: We have posted an updated version of our paper ["Consistently estimating network statistics with aggregated relational data"](https://slubold.github.io/ARD_Consistent_Estimation/) to arXiv. 
