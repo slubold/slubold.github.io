@@ -21,7 +21,7 @@ Some of my current projects focus on
 - improving re-identification methods for conservation work using animal social networks,  
 - assessing model fit for sampled network data
 
-
+# Publications
 See my [Google Scholar page](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en) and [NBER profile](https://www.nber.org/people/shane_lubold?page=1&perPage=50) for an up-to-date list of publications. 
 
 - [Consistently estimating network statistics using aggregated relational data](https://arxiv.org/abs/1908.09881) with Emily Breza, Arun Chandrasekhar, Tyler McCormick, and Mengjie Pan. [Paper Summary](https://slubold.github.io/ARD_Consistent_Estimation/). [Code](https://github.com/slubold/ARD_Consistent_Estimation).
