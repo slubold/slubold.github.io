@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Research
+
 Much of my work focuses on using sampled, incomplete, and noisy network data to learn features of unobserved networks and analyze how networks influence our behavior. I am interested in modeling standard sampled data types, such as respondent-driven sampling or aggregated relational data, to understand its uses and limitations. I also think about new data-driven ways of collecting network data to best address the researcher’s questions. Much of this work is inspired by interdisciplinary collaboration. Another part of my work focuses on learning the geometric properties of data, particularly network data, and using these properties to improve downstream tasks in machine learning. 
 
 Some of my current projects focus on
