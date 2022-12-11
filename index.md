@@ -8,7 +8,7 @@ I am a PhD candidate in the statistics department at the University of Washingto
 
 
 # Research
-My research covers a host of network and data science topics, motivated primarily by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. I am passionate about working on high-impact problems in data science. See [here] for more information on my work. 
+My research covers a host of network and data science topics, motivated primarily by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. I am passionate about working on high-impact problems in data science. See [here](https://slubold.github.io/research_publications.md) for more information on my work. 
 
 
 
