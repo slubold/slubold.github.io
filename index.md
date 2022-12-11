@@ -7,7 +7,7 @@ layout: default
 I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). <!--Previously, I received my BS in math from Arizona State University. I have worked with Yen-Chi Chen in the UW stats department and Clark Taylor at the Air Force Research Lab. -->
 I am supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-homepage). 
 
-**I am on the job market.** My expected graduation is June 2023. 
+**I am on the 2022-2023 job market!** 
 
 <h3 align="center">
   <a href="mailto:sl223@uw.edu">Email</a> / <a href="https://slubold.github.io/LuboldCV_V2.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/slubold">GitHub</a>
