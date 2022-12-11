@@ -1,4 +1,8 @@
 
+---
+layout: default
+---
+
 ## Teaching at UW
 
 In the summer of 2021, I was the sole instructor for MATH/STAT 395: Probability II. 
@@ -9,3 +13,5 @@ I have served as the TA for the following courses:
 - STAT 390 Statistical Methods in Engineering and Science (Spring 2019).
 - STAT 421: Applied Statistics and Experimental Design (Autumn 2018). 
 - 
+
+(back)[./]
