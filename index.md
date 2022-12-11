@@ -7,7 +7,7 @@ layout: default
 I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). <!--Previously, I received my BS in math from Arizona State University. I have worked with Yen-Chi Chen in the UW stats department and Clark Taylor at the Air Force Research Lab. -->
 I am supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-homepage). 
 
-I work on causal inference, network analysis, and survey design. [A large part](https://arxiv.org/abs/1908.09881) of my research focuses on making large-scale surveys more accessible to researchers by reducing the time and money required to implement them. I also [work](https://arxiv.org/abs/2012.10559) on learning geometric properties of data to improve down-stream tasks in inference and machine learning. My research is often motivated by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. I develop user-friendly software that allows researchers to better understand their data. 
+I work on causal inference, network analysis, and survey design. [A large part](https://arxiv.org/abs/1908.09881) of my research focuses on making large-scale surveys more accessible to researchers by reducing the time and money required to implement them. I also [work](https://arxiv.org/abs/2012.10559) on learning geometric properties of data to improve down-stream tasks in inference and machine learning. I develop user-friendly software that allows researchers to better understand their data. 
 
 
 **I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> to get in touch.
