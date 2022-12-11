@@ -10,7 +10,7 @@ I am supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-h
 I work on causal inference, network analysis, and survey design and am interested in learning from sampled and incomplete data. I also work on learning geometric properties of data to improve down-stream tasks in inference and machine learning. My research is often motivated by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. I develop user-friendly software that allows researchers to better understand their data. 
 
 
-**I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> if you'd like to get in touch.
+**I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> to get in touch.
 
 <h3 align="center">
   <a href="mailto:sl223@uw.edu">Email</a> / <a href="https://slubold.github.io/LuboldCV_V2.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/slubold">GitHub</a>
