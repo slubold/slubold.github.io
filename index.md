@@ -7,6 +7,9 @@ layout: default
 I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). <!--Previously, I received my BS in math from Arizona State University. I have worked with Yen-Chi Chen in the UW stats department and Clark Taylor at the Air Force Research Lab. -->
 I am supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-homepage). 
 
+I work on causal inference, network analysis, and survey design. I develop user-friendly software that allows researchers to better understand and learn from data.  
+
+
 **I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> if you'd like to get in touch.
 
 <h3 align="center">
