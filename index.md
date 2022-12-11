@@ -11,9 +11,9 @@ Here is my [CV](https://slubold.github.io/LuboldCV_V2.pdf).
 
 
 # Research
-My research covers a host of network and data science topics, and I am have extensive experience in causal inference, network analysis, and survey design. 
+My research covers a host of network and data science topics, and I work on causal inference, network analysis, and survey design. 
 
-I am passionate about developing user-friendly and statistically rigorous software that allows researchers to better understand and learn from their data.
+I am passionate about developing user-friendly and interpretable software that allows researchers to better understand and learn from data.
 
 See [here](./research-publications.html) for more information on my research and recent publications.
 
