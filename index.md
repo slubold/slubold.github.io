@@ -10,9 +10,6 @@ I am a PhD candidate in the statistics department at the University of Washingto
 # Research
 My research covers a host of network and data science topics, motivated primarily by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. I am passionate about working on high-impact problems in data science. See [here](./research_publications.html) for more information on my work. 
 
-
-
-
 # News 
 - April 27, 2022: We have posted an updated version of our paper ["Consistently estimating network statistics with aggregated relational data"](https://slubold.github.io/ARD_Consistent_Estimation/) to arXiv. 
 - November 17, 2021: I will be giving a presentation at the [International Society of Bayesian Analysis](https://isbawebmaster.github.io/ISBA2022/) in June 2022 on our [geometry of latent space paper](https://arxiv.org/abs/2012.10559)!
