@@ -30,7 +30,7 @@ See [here](./research-publications.html) for more information on my research and
 I am passionate about mentoring and teaching. See [here](./teaching.html) for more information.  -->
 
 # News 
-- November 18, 2022: I am giving a [talk](https://di.ku.dk/english/events/pioneer-centre-for-ai-talk-shane-lubold/) at the Pioneer Center at the University of Copenhagen. 
+- November 18, 2022: I am giving a [talk](https://di.ku.dk/english/events/pioneer-centre-for-ai-talk-shane-lubold/) at the Pioneer Center for AI at the University of Copenhagen. 
 - April 27, 2022: We have posted an updated version of our paper ["Consistently estimating network statistics with aggregated relational data"](https://slubold.github.io/ARD_Consistent_Estimation/) to arXiv. 
 - November 17, 2021: I will be giving a presentation at the [International Society of Bayesian Analysis](https://isbawebmaster.github.io/ISBA2022/) in June 2022 on our [geometry of latent space paper](https://arxiv.org/abs/2012.10559)!
 - November 12, 2021: I am excited to announce that I received the [Z.W. Birnbaum award](https://stat.uw.edu/news-resources/articles/2020-2021-zw-birnbaum-award-and-dorothy-m-gilford-teaching-award) for best general exam in the past year. Thanks to my great advisors Arun and Tyler!
