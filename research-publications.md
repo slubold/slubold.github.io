@@ -25,3 +25,7 @@ See my [Google Scholar page](https://scholar.google.com/citations?user=Ab-RAckAA
 - [Formal Definitions of Conservative PDFs](https://arxiv.org/pdf/1912.06780) with Clark Taylor. Submitted.
 
 - [Verifying the predicted uncertainty of Bayesian estimators](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10645/106450E/Verifying-the-predicted-uncertainty-of-Bayesian-estimators/10.1117/12.2304954.short?SSO=1). Proc. SPIE 10645, Geospatial Informatics, Motion Imagery, and Network Analytics VIII, 106450E (27 April 2018)
+
+[back](./)
+
+
