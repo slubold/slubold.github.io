@@ -11,10 +11,14 @@ Here is my [CV](https://slubold.github.io/LuboldCV_V2.pdf).
 
 
 # Research
-My research covers a host of network and data science topics, and I am have extensive experience in causal inference, network analysis, and survey design.  I am passionate about developing user-friendly and statistically rigorous software that allows researchers to better understand and learn from their data.
+My research covers a host of network and data science topics, and I am have extensive experience in causal inference, network analysis, and survey design. 
+
+I am passionate about developing user-friendly and statistically rigorous software that allows researchers to better understand and learn from their data.
+
 See [here](./research-publications.html) for more information on my research and recent publications.
 
-# [Teaching](./teaching.html)
+# Teaching
+I am passionate about mentoring and teaching. See [here](./teaching.html) for more information. 
 
 # News 
 - April 27, 2022: We have posted an updated version of our paper ["Consistently estimating network statistics with aggregated relational data"](https://slubold.github.io/ARD_Consistent_Estimation/) to arXiv. 
