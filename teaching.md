@@ -11,6 +11,6 @@ I have served as the TA for the following courses:
 - STAT/CSSS 567: Statistical analysis of social network data (Autumn 2020). 
 - STAT 390 Statistical Methods in Engineering and Science (Spring 2019).
 - STAT 421: Applied Statistics and Experimental Design (Autumn 2018). 
-- 
+
 
 [back](./)
