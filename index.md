@@ -11,7 +11,7 @@ Here is my [CV](https://slubold.github.io/LuboldCV_V2.pdf).
 
 
 # Research
-My research covers a host of network and data science topics, motivated primarily by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. I am passionate about working on high-impact problems in data science. See [here](./research-publications.html) for more information on my research and recent publications.
+My research covers a host of network and data science topics. I am passionate about working on high-impact problems in data science. See [here](./research-publications.html) for more information on my research and recent publications.
 
 # [Teaching](./teaching.html)
 
