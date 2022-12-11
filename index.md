@@ -11,9 +11,9 @@ I am supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-h
 
 **I am on the job market.** My expected graduation is June 2023. 
 
-Here is my [CV](https://slubold.github.io/LuboldCV_V2.pdf).
+<!-- Here is my [CV](https://slubold.github.io/LuboldCV_V2.pdf). -->
 
-
+<!-- 
 # Research
 My research covers a host of network and data science topics, and I work on causal inference, network analysis, and survey design. 
 
@@ -22,7 +22,7 @@ I am passionate about developing user-friendly and interpretable software that a
 See [here](./research-publications.html) for more information on my research and recent publications.
 
 # Teaching
-I am passionate about mentoring and teaching. See [here](./teaching.html) for more information. 
+I am passionate about mentoring and teaching. See [here](./teaching.html) for more information.  -->
 
 # News 
 - April 27, 2022: We have posted an updated version of our paper ["Consistently estimating network statistics with aggregated relational data"](https://slubold.github.io/ARD_Consistent_Estimation/) to arXiv. 
