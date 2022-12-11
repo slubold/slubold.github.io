@@ -14,4 +14,4 @@ I have served as the TA for the following courses:
 - STAT 421: Applied Statistics and Experimental Design (Autumn 2018). 
 - 
 
-(back)[./]
+[back](./)
