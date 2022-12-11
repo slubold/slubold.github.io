@@ -8,7 +8,7 @@ I am a PhD candidate in the statistics department at the University of Washingto
 
 
 # Research
-My research covers a host of network and data science topics, motivated primarily by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. I am passionate about working on high-impact problems in data science. See [here](./research-publications.html) for more information on my research. 
+My research covers a host of network and data science topics, motivated primarily by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. I am passionate about working on high-impact problems in data science. See [here](./research-publications.html) for more information on my research and recent publications.
 
 # News 
 - April 27, 2022: We have posted an updated version of our paper ["Consistently estimating network statistics with aggregated relational data"](https://slubold.github.io/ARD_Consistent_Estimation/) to arXiv. 
@@ -21,14 +21,5 @@ My research covers a host of network and data science topics, motivated primaril
 - December 4, 2020: I passed my general exam. 
 
 
-## Teaching at UW
-
-In the summer of 2021, I was the sole instructor for MATH/STAT 395: Probability II. 
-
-I have served as the TA for the following courses:
-- STAT 502: Design and Analysis of Experiments (Autumn 2021).
-- STAT/CSSS 567: Statistical analysis of social network data (Autumn 2020). 
-- STAT 390 Statistical Methods in Engineering and Science (Spring 2019).
-- STAT 421: Applied Statistics and Experimental Design (Autumn 2018). 
 
 
