@@ -7,7 +7,7 @@ layout: default
 I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). <!--Previously, I received my BS in math from Arizona State University. I have worked with Yen-Chi Chen in the UW stats department and Clark Taylor at the Air Force Research Lab. -->
 I am supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-homepage). 
 
-I work on causal inference, network analysis, and survey design. I develop user-friendly software that allows researchers to better understand and learn from data. I am also interested in learning geometric properties of data and using this to improve down-stream tasks in inference and machine learning. 
+I work on causal inference, network analysis, and survey design and am interested in learning from sampled and incomplete data. I also work on learning geometric properties of data to improve down-stream tasks in inference and machine learning. My research is often motivated by questions in demography, developmental economics, sociology, machine learning, and conservation efforts. I develop user-friendly software that allows researchers to better understand their data. 
 
 
 **I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> if you'd like to get in touch.
@@ -30,6 +30,7 @@ See [here](./research-publications.html) for more information on my research and
 I am passionate about mentoring and teaching. See [here](./teaching.html) for more information.  -->
 
 # News 
+- November 18, 2022: I am giving a [talk](https://di.ku.dk/english/events/pioneer-centre-for-ai-talk-shane-lubold/) at the Pioneer Center at the University of Copenhagen. 
 - April 27, 2022: We have posted an updated version of our paper ["Consistently estimating network statistics with aggregated relational data"](https://slubold.github.io/ARD_Consistent_Estimation/) to arXiv. 
 - November 17, 2021: I will be giving a presentation at the [International Society of Bayesian Analysis](https://isbawebmaster.github.io/ISBA2022/) in June 2022 on our [geometry of latent space paper](https://arxiv.org/abs/2012.10559)!
 - November 12, 2021: I am excited to announce that I received the [Z.W. Birnbaum award](https://stat.uw.edu/news-resources/articles/2020-2021-zw-birnbaum-award-and-dorothy-m-gilford-teaching-award) for best general exam in the past year. Thanks to my great advisors Arun and Tyler!
