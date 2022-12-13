@@ -30,6 +30,7 @@ See [here](./research-publications.html) for more information on my research and
 I am passionate about mentoring and teaching. See [here](./teaching.html) for more information.  -->
 
 # News 
+- ** December 13, 2022: Our paper on [latent space geometry](https://arxiv.org/abs/2012.10559) was accepted to JRSS-B!**
 - November 18, 2022: I am giving a [talk](https://di.ku.dk/english/events/pioneer-centre-for-ai-talk-shane-lubold/) at the Pioneer Center for AI at the University of Copenhagen. 
 - April 27, 2022: We have posted an updated version of our paper ["Consistently estimating network statistics with aggregated relational data"](https://slubold.github.io/ARD_Consistent_Estimation/) to arXiv. 
 - November 17, 2021: I will be giving a presentation at the [International Society of Bayesian Analysis](https://isbawebmaster.github.io/ISBA2022/) in June 2022 on our [geometry of latent space paper](https://arxiv.org/abs/2012.10559)!
