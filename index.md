@@ -13,7 +13,7 @@ I work on causal inference, network analysis, and survey design. [A large part](
 **I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> to get in touch.
 
 <h3 align="center">
-  <a href="mailto:sl223@uw.edu">Email</a> / <a href="https://slubold.github.io/LuboldCV_V2.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/slubold">GitHub</a>
+  <a href="mailto:sl223@uw.edu">Email</a> / <a href="https://slubold.github.io/LuboldCV2.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/slubold">GitHub</a>
 </h3>
 
 <!-- Here is my [CV](https://slubold.github.io/LuboldCV_V2.pdf). -->
