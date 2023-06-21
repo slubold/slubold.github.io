@@ -4,13 +4,13 @@ layout: default
 
 # About
 
-I am a PhD candidate in the statistics department at the University of Washington. I am advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). Previously I was a [Fulbright Scholar](https://us.fulbrightonline.org) at the [University of Luxembourg](https://wwwen.uni.lu) and before that I received my BS in math from Arizona State University. <!-- I have worked with Yen-Chi Chen in the UW stats department and Clark Taylor at the Air Force Research Lab. -->
-I am supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-homepage). 
+I am a Research Mathematical Statistician in the Center for Statistical Research and Methodology at the U.S. Census Bureau. I recieved my PhD in statistics from the University of Washington in June 2023. I was advised by [Tyler McCormick](https://thmccormick.github.io/) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/). Previously I was a [Fulbright Scholar](https://us.fulbrightonline.org) at the [University of Luxembourg](https://wwwen.uni.lu) and before that I received my BS in math from Arizona State University. <!-- I have worked with Yen-Chi Chen in the UW stats department and Clark Taylor at the Air Force Research Lab. --> At UW, I was supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-homepage). 
 
 I use tools from statistical inference and machine learning to answer questions in causal inference, network analysis, and survey design. [A large part](https://arxiv.org/abs/1908.09881) of my research focuses on making large-scale surveys more accessible to researchers by making them cheaper, more accurate, and easier to run. I work on [model selection for network data](https://arxiv.org/abs/2106.09702) and [learning geometric properties](https://arxiv.org/abs/2012.10559) of data to improve down-stream tasks in inference and machine learning. I develop user-friendly software that allows researchers to better understand their data. 
 
 
-**I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> to get in touch.
+<!--  **I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> to get in touch. -->
+
 
 <h3 align="center">
   <a href="mailto:sl223@uw.edu">Email</a> / <a href="https://slubold.github.io/LuboldCV2.pdf">CV</a> / <a href="https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/slubold">GitHub</a>
