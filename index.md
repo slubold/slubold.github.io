@@ -30,7 +30,7 @@ See [here](./research-publications.html) for more information on my research and
 I am passionate about mentoring and teaching. See [here](./teaching.html) for more information.  -->
 
 # News 
-- I will be serving as a mentor for the [INSPIRE U2 REU program](https://sites.spelman.edu/inspireu2-reu/) at Spelman College this summer!
+- June 21, 2023: I will be serving as a mentor for the [INSPIRE U2 REU program](https://sites.spelman.edu/inspireu2-reu/) at Spelman College this summer!
 - June 10, 2023: I received my PhD in Statistics from the University of Washington!
 - **March 23, 2023: Our paper on using [Aggregated Relational Data to estimate network properties](https://arxiv.org/abs/1908.09881) was accepted to PNAS!**
 - **December 13, 2022: Our paper on [latent space geometry](https://arxiv.org/abs/2012.10559) was accepted to JRSS Series B!**
