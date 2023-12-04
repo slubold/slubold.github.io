@@ -10,7 +10,7 @@ I recieved my PhD in statistics from the University of Washington in June 2023. 
 
 I use tools from statistical inference and machine learning to answer questions in causal inference, network analysis, and survey design. [A large part](https://arxiv.org/abs/1908.09881) of my research focuses on making large-scale surveys more accessible to researchers by making them cheaper, more accurate, and easier to run. I work on [model selection for network data](https://arxiv.org/abs/2106.09702) and [learning geometric properties](https://arxiv.org/abs/2012.10559) of data to improve down-stream tasks in inference and machine learning. I develop user-friendly software that allows researchers to better understand their data. 
 
-**A description of some of my work with Tyler McCormick was [recently appeared](https://www.wsj.com/us-news/you-probably-know-611-people-heres-how-we-know-88dd27d9) in the Wall Street Journal!**
+**A description of some of my work with Tyler McCormick [recently appeared](https://www.wsj.com/us-news/you-probably-know-611-people-heres-how-we-know-88dd27d9) in the Wall Street Journal!**
 
 
 <!--  **I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> to get in touch. -->
