@@ -8,6 +8,8 @@ I am a Research Mathematical Statistician in the Center for Statistical Research
 
 I use tools from statistical inference and machine learning to answer questions in causal inference, network analysis, and survey design. [A large part](https://arxiv.org/abs/1908.09881) of my research focuses on making large-scale surveys more accessible to researchers by making them cheaper, more accurate, and easier to run. I work on [model selection for network data](https://arxiv.org/abs/2106.09702) and [learning geometric properties](https://arxiv.org/abs/2012.10559) of data to improve down-stream tasks in inference and machine learning. I develop user-friendly software that allows researchers to better understand their data. 
 
+**A description of some of my work with Tyler McCormick was [recently appeared](https://www.wsj.com/us-news/you-probably-know-611-people-heres-how-we-know-88dd27d9) in the Wall Street Journal!**
+
 
 <!--  **I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> to get in touch. -->
 
@@ -30,6 +32,8 @@ See [here](./research-publications.html) for more information on my research and
 I am passionate about mentoring and teaching. See [here](./teaching.html) for more information.  -->
 
 # News 
+- October 13,2023: Our paper _Bayesian Hyperbolic Multidimensional Scaling_ was accepted to the Journal of Computational and Graphical Statistics.
+- October 13, 2023: Here is an [interactive description](https://avisokay.github.io/projects.html) of our recent work that appeared in PNAS.
 - June 21, 2023: I will be serving as a mentor for the [INSPIRE U2 REU program](https://sites.spelman.edu/inspireu2-reu/) at Spelman College this summer!
 - June 10, 2023: I received my PhD in Statistics from the University of Washington!
 - **March 23, 2023: Our paper on using [Aggregated Relational Data to estimate network properties](https://arxiv.org/abs/1908.09881) was accepted to PNAS!**
