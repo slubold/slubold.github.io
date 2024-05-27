@@ -4,13 +4,11 @@ layout: default
 
 # About
 
-I am a research scientist at Amazon. I received my PhD in statistics from the University of Washington in June 2023, where I was advised by [Arun Chandrasekhar](https://web.stanford.edu/~arungc/) at Stanford University and [Tyler McCormick](https://thmccormick.github.io/) at UW. Previously, I was a Research Mathematical Statistician in the [Missing Data and Observational Data Modeling Group](https://www.census.gov/topics/research/stat-research/expertise/missing-data.html) in the Center for Statistical Research and Methodology at the U.S. Census Bureau, where I built machine learning models to reduce non-response bias. 
-Previously I was a [Fulbright Scholar](https://us.fulbrightonline.org) at the [University of Luxembourg](https://wwwen.uni.lu) and before that I received my BS in math from Arizona State University. At UW, I was supported by an [ARCS fellowship](https://www.arcsfoundation.org/national-homepage). 
+I am a research scientist at Amazon. I received my PhD in statistics from the University of Washington in June 2023, where I was advised by [Arun Chandrasekhar](https://web.stanford.edu/~arungc/) at Stanford University and [Tyler McCormick](https://thmccormick.github.io/) at UW. 
+
+Previously, I was a Research Mathematical Statistician in the [Missing Data and Observational Data Modeling Group](https://www.census.gov/topics/research/stat-research/expertise/missing-data.html) in the Center for Statistical Research and Methodology at the U.S. Census Bureau, where I built machine learning models to reduce non-response bias. I received my BS in math from Arizona State University and then spent a year as a [Fulbright Scholar](https://us.fulbrightonline.org) at the [University of Luxembourg](https://wwwen.uni.lu).
 
 My work in graduate school focused on questions in causal inference, network analysis, and survey design. [A large part](https://arxiv.org/abs/1908.09881) of my research focused on making large-scale surveys more accessible to researchers by making them cheaper, more accurate, and easier to run. My work also focused on building [statistical models for network data](https://arxiv.org/abs/2012.10559). I also worked on [model selection for network data](https://arxiv.org/abs/2106.09702) and [learning geometric properties](https://arxiv.org/abs/2012.10559) of data to improve down-stream tasks in inference and machine learning. 
-
-
-<!--  **I am on the job market!** Please feel free to <a href="mailto:sl223@uw.edu">email</a> to get in touch. -->
 
 
 <h3 align="center">
